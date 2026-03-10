@@ -182,7 +182,7 @@ Write a JSON file at `_pdf_input.json` in the current working directory containi
 Check if the PDF generation script exists at `scripts/generate_pdf_report.py` relative to the project root.
 
 **Finding the project root:** Look for the `scripts/` directory in these locations (in order):
-1. The ai-sales-claude project directory (where the agents/ and skills/ folders are)
+1. The ai-sales-team-claude project directory (where the agents/ and skills/ folders are)
 2. The current working directory
 3. One level up from the current working directory
 
